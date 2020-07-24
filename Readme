@@ -1,0 +1,4 @@
+ OpenCV already contains many pre-trained classifiers for face, eyes etc.
+ First we need to load the required XML classifiers and XML files are stored can be downloaded from 
+ https://codeload.github.com/opencv/opencv/zip/master
+ 
